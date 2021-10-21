@@ -1,0 +1,31 @@
+body{
+    background-image:url(R.jpg);
+}
+
+.login_div1 , .login_div2
+{
+ background-color: white;
+ padding: 10px;
+ float: none;
+ border-radius: 15px;
+ width:50px;
+}
+
+h3{
+    
+    color:yellow;
+}
+
+#name{
+    color:lawngreen;
+}
+
+.btn1{
+    font-size: 20px;
+    background-color:mediumvioletred;
+    color: yellow;
+}
+
+#img2{
+    background-image:url(Mq.png);  
+}
